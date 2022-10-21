@@ -1,0 +1,5 @@
+Make a web page of the 400 word list quickly with Python.
+- Get the list of words and make into arrays.
+- Use pip install googletrans to get translations - see test-googletrans.py
+- Use pip install icrawler to get images of those words.
+- Generate web page with each card featuring the image, English word and Welsh word.
