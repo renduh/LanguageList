@@ -8,6 +8,9 @@ All I had to do then was write a quick html file (I actually used Vue to run thr
 
 Feel free to use or change, if you're learning a differnet language, you'd only have to change from Welsh (cy) to another langulage and run the script to make a whole new set of cards.
 
+#### Demo here
+https://renduh.github.io/LanguageList/
+
 #### Python libraries used
 - pip install googletrans==3.1.0a0
 - pip install icrawler
