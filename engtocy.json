@@ -1,0 +1,3342 @@
+[
+  {
+    "group": "Animal",
+    "words": [
+      {
+        "english": "Animal",
+        "cymru": "Anifail",
+        "image": "img625/Animal-Animal.jpg"
+      },
+      {
+        "english": "dog",
+        "cymru": "ci",
+        "image": "img625/Animal-dog.jpg"
+      },
+      {
+        "english": "cat",
+        "cymru": "cath",
+        "image": "img625/Animal-cat.jpg"
+      },
+      {
+        "english": "fish",
+        "cymru": "pysgodyn",
+        "image": "img625/Animal-fish.jpg"
+      },
+      {
+        "english": "bird",
+        "cymru": "aderyn",
+        "image": "img625/Animal-bird.jpg"
+      },
+      {
+        "english": "cow",
+        "cymru": "buwch",
+        "image": "img625/Animal-cow.jpg"
+      },
+      {
+        "english": "pig",
+        "cymru": "mochyn",
+        "image": "img625/Animal-pig.jpg"
+      },
+      {
+        "english": "mouse",
+        "cymru": "llygoden",
+        "image": "img625/Animal-mouse.jpg"
+      },
+      {
+        "english": "horse",
+        "cymru": "ceffyl",
+        "image": "img625/Animal-horse.jpg"
+      },
+      {
+        "english": "wing",
+        "cymru": "adain",
+        "image": "img625/Animal-wing.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Transportation",
+    "words": [
+      {
+        "english": "Transportation",
+        "cymru": "Cludiant",
+        "image": "img625/Transportation-Transportation.jpg"
+      },
+      {
+        "english": "train",
+        "cymru": "tren",
+        "image": "img625/Transportation-train.jpg"
+      },
+      {
+        "english": "plane",
+        "cymru": "awyren",
+        "image": "img625/Transportation-plane.jpg"
+      },
+      {
+        "english": "car",
+        "cymru": "car",
+        "image": "img625/Transportation-car.jpg"
+      },
+      {
+        "english": "truck",
+        "cymru": "tryc",
+        "image": "img625/Transportation-truck.jpg"
+      },
+      {
+        "english": "bicycle",
+        "cymru": "beic",
+        "image": "img625/Transportation-bicycle.jpg"
+      },
+      {
+        "english": "bus",
+        "cymru": "bws",
+        "image": "img625/Transportation-bus.jpg"
+      },
+      {
+        "english": "boat",
+        "cymru": "cwch",
+        "image": "img625/Transportation-boat.jpg"
+      },
+      {
+        "english": "ship",
+        "cymru": "llong",
+        "image": "img625/Transportation-ship.jpg"
+      },
+      {
+        "english": "tire",
+        "cymru": "teiar",
+        "image": "img625/Transportation-tire.jpg"
+      },
+      {
+        "english": "gasoline",
+        "cymru": "gasolin",
+        "image": "img625/Transportation-gasoline.jpg"
+      },
+      {
+        "english": "engine",
+        "cymru": "injan",
+        "image": "img625/Transportation-engine.jpg"
+      },
+      {
+        "english": "ticket",
+        "cymru": "tocyn",
+        "image": "img625/Transportation-ticket.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Location",
+    "words": [
+      {
+        "english": "Location",
+        "cymru": "Lleoliad",
+        "image": "img625/Location-Location.jpg"
+      },
+      {
+        "english": "city",
+        "cymru": "dinas",
+        "image": "img625/Location-city.jpg"
+      },
+      {
+        "english": "house",
+        "cymru": "t\u0177",
+        "image": "img625/Location-house.jpg"
+      },
+      {
+        "english": "apartment",
+        "cymru": "fflat",
+        "image": "img625/Location-apartment.jpg"
+      },
+      {
+        "english": "street",
+        "cymru": "stryd",
+        "image": "img625/Location-street.jpg"
+      },
+      {
+        "english": "airport",
+        "cymru": "maes Awyr",
+        "image": "img625/Location-airport.jpg"
+      },
+      {
+        "english": "station",
+        "cymru": "gorsaf",
+        "image": "img625/Location-station.jpg"
+      },
+      {
+        "english": "bridge",
+        "cymru": "pont",
+        "image": "img625/Location-bridge.jpg"
+      },
+      {
+        "english": "hotel",
+        "cymru": "gwesty",
+        "image": "img625/Location-hotel.jpg"
+      },
+      {
+        "english": "restaurant",
+        "cymru": "bwyty",
+        "image": "img625/Location-restaurant.jpg"
+      },
+      {
+        "english": "farm",
+        "cymru": "fferm",
+        "image": "img625/Location-farm.jpg"
+      },
+      {
+        "english": "court",
+        "cymru": "llys",
+        "image": "img625/Location-court.jpg"
+      },
+      {
+        "english": "school",
+        "cymru": "ysgol",
+        "image": "img625/Location-school.jpg"
+      },
+      {
+        "english": "office",
+        "cymru": "swyddfa",
+        "image": "img625/Location-office.jpg"
+      },
+      {
+        "english": "room",
+        "cymru": "ystafell",
+        "image": "img625/Location-room.jpg"
+      },
+      {
+        "english": "town",
+        "cymru": "tref",
+        "image": "img625/Location-town.jpg"
+      },
+      {
+        "english": "university",
+        "cymru": "prifysgol",
+        "image": "img625/Location-university.jpg"
+      },
+      {
+        "english": "club",
+        "cymru": "clwb",
+        "image": "img625/Location-club.jpg"
+      },
+      {
+        "english": "bar",
+        "cymru": "bar",
+        "image": "img625/Location-bar.jpg"
+      },
+      {
+        "english": "park",
+        "cymru": "parc",
+        "image": "img625/Location-park.jpg"
+      },
+      {
+        "english": "camp",
+        "cymru": "gwersyll",
+        "image": "img625/Location-camp.jpg"
+      },
+      {
+        "english": "shop",
+        "cymru": "siop",
+        "image": "img625/Location-shop.jpg"
+      },
+      {
+        "english": "theater",
+        "cymru": "theatr",
+        "image": "img625/Location-theater.jpg"
+      },
+      {
+        "english": "library",
+        "cymru": "llyfrgell",
+        "image": "img625/Location-library.jpg"
+      },
+      {
+        "english": "hospital",
+        "cymru": "ysbyty",
+        "image": "img625/Location-hospital.jpg"
+      },
+      {
+        "english": "church",
+        "cymru": "eglwys",
+        "image": "img625/Location-church.jpg"
+      },
+      {
+        "english": "market",
+        "cymru": "marchnad",
+        "image": "img625/Location-market.jpg"
+      },
+      {
+        "english": "country",
+        "cymru": "gwlad",
+        "image": "img625/Location-country.jpg"
+      },
+      {
+        "english": "building",
+        "cymru": "adeilad",
+        "image": "img625/Location-building.jpg"
+      },
+      {
+        "english": "ground",
+        "cymru": "ddaear",
+        "image": "img625/Location-ground.jpg"
+      },
+      {
+        "english": "space",
+        "cymru": "gofod",
+        "image": "img625/Location-space.jpg"
+      },
+      {
+        "english": "bank",
+        "cymru": "banc",
+        "image": "img625/Location-bank.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Clothing",
+    "words": [
+      {
+        "english": "Clothing",
+        "cymru": "Dillad",
+        "image": "img625/Clothing-Clothing.jpg"
+      },
+      {
+        "english": "hat",
+        "cymru": "Wedi",
+        "image": "img625/Clothing-hat.jpg"
+      },
+      {
+        "english": "dress",
+        "cymru": "gwisg",
+        "image": "img625/Clothing-dress.jpg"
+      },
+      {
+        "english": "suit",
+        "cymru": "siwt",
+        "image": "img625/Clothing-suit.jpg"
+      },
+      {
+        "english": "skirt",
+        "cymru": "sgert",
+        "image": "img625/Clothing-skirt.jpg"
+      },
+      {
+        "english": "shirt",
+        "cymru": "crys",
+        "image": "img625/Clothing-shirt.jpg"
+      },
+      {
+        "english": "T-shirt",
+        "cymru": "Crys-T",
+        "image": "img625/Clothing-T-shirt.jpg"
+      },
+      {
+        "english": "pants",
+        "cymru": "pants",
+        "image": "img625/Clothing-pants.jpg"
+      },
+      {
+        "english": "shoes",
+        "cymru": "esgidiau",
+        "image": "img625/Clothing-shoes.jpg"
+      },
+      {
+        "english": "pocket",
+        "cymru": "poced",
+        "image": "img625/Clothing-pocket.jpg"
+      },
+      {
+        "english": "coat",
+        "cymru": "cot",
+        "image": "img625/Clothing-coat.jpg"
+      },
+      {
+        "english": "stain",
+        "cymru": "staen",
+        "image": "img625/Clothing-stain.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Colour",
+    "words": [
+      {
+        "english": "Colour",
+        "cymru": "Lliw",
+        "image": "img625/Colour-Colour.jpg"
+      },
+      {
+        "english": "red",
+        "cymru": "Coch",
+        "image": "img625/Colour-red.jpg"
+      },
+      {
+        "english": "green",
+        "cymru": "gwyrdd",
+        "image": "img625/Colour-green.jpg"
+      },
+      {
+        "english": "blue",
+        "cymru": "glas",
+        "image": "img625/Colour-blue.jpg"
+      },
+      {
+        "english": "yellow",
+        "cymru": "melyn",
+        "image": "img625/Colour-yellow.jpg"
+      },
+      {
+        "english": "brown",
+        "cymru": "brown",
+        "image": "img625/Colour-brown.jpg"
+      },
+      {
+        "english": "pink",
+        "cymru": "pinc",
+        "image": "img625/Colour-pink.jpg"
+      },
+      {
+        "english": "orange",
+        "cymru": "oren",
+        "image": "img625/Colour-orange.jpg"
+      },
+      {
+        "english": "black",
+        "cymru": "du",
+        "image": "img625/Colour-black.jpg"
+      },
+      {
+        "english": "white",
+        "cymru": "Gwyn",
+        "image": "img625/Colour-white.jpg"
+      },
+      {
+        "english": "gray",
+        "cymru": "llwyd",
+        "image": "img625/Colour-gray.jpg"
+      }
+    ]
+  },
+  {
+    "group": "People",
+    "words": [
+      {
+        "english": "People",
+        "cymru": "Pobl",
+        "image": "img625/People-People.jpg"
+      },
+      {
+        "english": "son",
+        "cymru": "mab",
+        "image": "img625/People-son.jpg"
+      },
+      {
+        "english": "daughter",
+        "cymru": "merch",
+        "image": "img625/People-daughter.jpg"
+      },
+      {
+        "english": "mother",
+        "cymru": "mam",
+        "image": "img625/People-mother.jpg"
+      },
+      {
+        "english": "father",
+        "cymru": "tad",
+        "image": "img625/People-father.jpg"
+      },
+      {
+        "english": "parent",
+        "cymru": "rhiant",
+        "image": "img625/People-parent.jpg"
+      },
+      {
+        "english": "baby",
+        "cymru": "babi",
+        "image": "img625/People-baby.jpg"
+      },
+      {
+        "english": "man",
+        "cymru": "dyn",
+        "image": "img625/People-man.jpg"
+      },
+      {
+        "english": "woman",
+        "cymru": "gwraig",
+        "image": "img625/People-woman.jpg"
+      },
+      {
+        "english": "brother",
+        "cymru": "brawd",
+        "image": "img625/People-brother.jpg"
+      },
+      {
+        "english": "sister",
+        "cymru": "chwaer",
+        "image": "img625/People-sister.jpg"
+      },
+      {
+        "english": "family",
+        "cymru": "teulu",
+        "image": "img625/People-family.jpg"
+      },
+      {
+        "english": "grandfather",
+        "cymru": "taid",
+        "image": "img625/People-grandfather.jpg"
+      },
+      {
+        "english": "grandmother",
+        "cymru": "nain",
+        "image": "img625/People-grandmother.jpg"
+      },
+      {
+        "english": "husband",
+        "cymru": "gwr",
+        "image": "img625/People-husband.jpg"
+      },
+      {
+        "english": "wife",
+        "cymru": "Gwraig",
+        "image": "img625/People-wife.jpg"
+      },
+      {
+        "english": "king",
+        "cymru": "brenin",
+        "image": "img625/People-king.jpg"
+      },
+      {
+        "english": "queen",
+        "cymru": "brenhines",
+        "image": "img625/People-queen.jpg"
+      },
+      {
+        "english": "president",
+        "cymru": "llywydd",
+        "image": "img625/People-president.jpg"
+      },
+      {
+        "english": "neighbor",
+        "cymru": "cymydog",
+        "image": "img625/People-neighbor.jpg"
+      },
+      {
+        "english": "boy",
+        "cymru": "bachgen",
+        "image": "img625/People-boy.jpg"
+      },
+      {
+        "english": "girl",
+        "cymru": "merch",
+        "image": "img625/People-girl.jpg"
+      },
+      {
+        "english": "child",
+        "cymru": "plentyn",
+        "image": "img625/People-child.jpg"
+      },
+      {
+        "english": "adult",
+        "cymru": "oedolyn",
+        "image": "img625/People-adult.jpg"
+      },
+      {
+        "english": "human",
+        "cymru": "dynol",
+        "image": "img625/People-human.jpg"
+      },
+      {
+        "english": "friend",
+        "cymru": "ffrind",
+        "image": "img625/People-friend.jpg"
+      },
+      {
+        "english": "victim",
+        "cymru": "dioddefwr",
+        "image": "img625/People-victim.jpg"
+      },
+      {
+        "english": "player",
+        "cymru": "chwaraewr",
+        "image": "img625/People-player.jpg"
+      },
+      {
+        "english": "fan",
+        "cymru": "ffan",
+        "image": "img625/People-fan.jpg"
+      },
+      {
+        "english": "crowd",
+        "cymru": "tyrfa",
+        "image": "img625/People-crowd.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Job",
+    "words": [
+      {
+        "english": "Job",
+        "cymru": "Job",
+        "image": "img625/Job-Job.jpg"
+      },
+      {
+        "english": "Teacher",
+        "cymru": "Athrawes",
+        "image": "img625/Job-Teacher.jpg"
+      },
+      {
+        "english": "student",
+        "cymru": "myfyriwr",
+        "image": "img625/Job-student.jpg"
+      },
+      {
+        "english": "lawyer",
+        "cymru": "cyfreithiwr",
+        "image": "img625/Job-lawyer.jpg"
+      },
+      {
+        "english": "doctor",
+        "cymru": "meddyg",
+        "image": "img625/Job-doctor.jpg"
+      },
+      {
+        "english": "patient",
+        "cymru": "claf",
+        "image": "img625/Job-patient.jpg"
+      },
+      {
+        "english": "waiter",
+        "cymru": "gweinydd",
+        "image": "img625/Job-waiter.jpg"
+      },
+      {
+        "english": "secretary",
+        "cymru": "ysgrifenydd",
+        "image": "img625/Job-secretary.jpg"
+      },
+      {
+        "english": "priest",
+        "cymru": "offeiriad",
+        "image": "img625/Job-priest.jpg"
+      },
+      {
+        "english": "police",
+        "cymru": "heddlu",
+        "image": "img625/Job-police.jpg"
+      },
+      {
+        "english": "army",
+        "cymru": "fyddin",
+        "image": "img625/Job-army.jpg"
+      },
+      {
+        "english": "soldier",
+        "cymru": "milwr",
+        "image": "img625/Job-soldier.jpg"
+      },
+      {
+        "english": "artist",
+        "cymru": "arlunydd",
+        "image": "img625/Job-artist.jpg"
+      },
+      {
+        "english": "author",
+        "cymru": "awdur",
+        "image": "img625/Job-author.jpg"
+      },
+      {
+        "english": "manager",
+        "cymru": "rheolwr",
+        "image": "img625/Job-manager.jpg"
+      },
+      {
+        "english": "reporter",
+        "cymru": "gohebydd",
+        "image": "img625/Job-reporter.jpg"
+      },
+      {
+        "english": "actor",
+        "cymru": "actor",
+        "image": "img625/Job-actor.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Society",
+    "words": [
+      {
+        "english": "Society",
+        "cymru": "Cymdeithas",
+        "image": "img625/Society-Society.jpg"
+      },
+      {
+        "english": "religion",
+        "cymru": "crefydd",
+        "image": "img625/Society-religion.jpg"
+      },
+      {
+        "english": "heaven",
+        "cymru": "nef",
+        "image": "img625/Society-heaven.jpg"
+      },
+      {
+        "english": "hell",
+        "cymru": "uffern",
+        "image": "img625/Society-hell.jpg"
+      },
+      {
+        "english": "death",
+        "cymru": "marwolaeth",
+        "image": "img625/Society-death.jpg"
+      },
+      {
+        "english": "medicine",
+        "cymru": "meddygaeth",
+        "image": "img625/Society-medicine.jpg"
+      },
+      {
+        "english": "money",
+        "cymru": "arian",
+        "image": "img625/Society-money.jpg"
+      },
+      {
+        "english": "dollar",
+        "cymru": "doler",
+        "image": "img625/Society-dollar.jpg"
+      },
+      {
+        "english": "bill",
+        "cymru": "bil",
+        "image": "img625/Society-bill.jpg"
+      },
+      {
+        "english": "marriage",
+        "cymru": "priodas",
+        "image": "img625/Society-marriage.jpg"
+      },
+      {
+        "english": "wedding",
+        "cymru": "priodas",
+        "image": "img625/Society-wedding.jpg"
+      },
+      {
+        "english": "team",
+        "cymru": "t\u00eem",
+        "image": "img625/Society-team.jpg"
+      },
+      {
+        "english": "ethnicity",
+        "cymru": "ethnigrwydd",
+        "image": "img625/Society-ethnicity.jpg"
+      },
+      {
+        "english": "sex",
+        "cymru": "rhyw",
+        "image": "img625/Society-sex.jpg"
+      },
+      {
+        "english": "gender",
+        "cymru": "rhyw",
+        "image": "img625/Society-gender.jpg"
+      },
+      {
+        "english": "murder",
+        "cymru": "llofruddiaeth",
+        "image": "img625/Society-murder.jpg"
+      },
+      {
+        "english": "prison",
+        "cymru": "carchar",
+        "image": "img625/Society-prison.jpg"
+      },
+      {
+        "english": "technology",
+        "cymru": "technoleg",
+        "image": "img625/Society-technology.jpg"
+      },
+      {
+        "english": "energy",
+        "cymru": "egni",
+        "image": "img625/Society-energy.jpg"
+      },
+      {
+        "english": "war",
+        "cymru": "Rhyfel",
+        "image": "img625/Society-war.jpg"
+      },
+      {
+        "english": "peace",
+        "cymru": "heddwch",
+        "image": "img625/Society-peace.jpg"
+      },
+      {
+        "english": "attack",
+        "cymru": "ymosod",
+        "image": "img625/Society-attack.jpg"
+      },
+      {
+        "english": "election",
+        "cymru": "etholiad",
+        "image": "img625/Society-election.jpg"
+      },
+      {
+        "english": "magazine",
+        "cymru": "cylchgrawn",
+        "image": "img625/Society-magazine.jpg"
+      },
+      {
+        "english": "newspaper",
+        "cymru": "papur newydd",
+        "image": "img625/Society-newspaper.jpg"
+      },
+      {
+        "english": "poison",
+        "cymru": "gwenwyn",
+        "image": "img625/Society-poison.jpg"
+      },
+      {
+        "english": "gun",
+        "cymru": "gwn",
+        "image": "img625/Society-gun.jpg"
+      },
+      {
+        "english": "sport",
+        "cymru": "chwaraeon",
+        "image": "img625/Society-sport.jpg"
+      },
+      {
+        "english": "race",
+        "cymru": "hil",
+        "image": "img625/Society-race.jpg"
+      },
+      {
+        "english": "exercise",
+        "cymru": "ymarfer corff",
+        "image": "img625/Society-exercise.jpg"
+      },
+      {
+        "english": "ball",
+        "cymru": "pel",
+        "image": "img625/Society-ball.jpg"
+      },
+      {
+        "english": "game",
+        "cymru": "g\u00eam",
+        "image": "img625/Society-game.jpg"
+      },
+      {
+        "english": "price",
+        "cymru": "pris",
+        "image": "img625/Society-price.jpg"
+      },
+      {
+        "english": "contract",
+        "cymru": "contract",
+        "image": "img625/Society-contract.jpg"
+      },
+      {
+        "english": "drug",
+        "cymru": "cyffur",
+        "image": "img625/Society-drug.jpg"
+      },
+      {
+        "english": "sign",
+        "cymru": "arwydd",
+        "image": "img625/Society-sign.jpg"
+      },
+      {
+        "english": "science",
+        "cymru": "gwyddoniaeth",
+        "image": "img625/Society-science.jpg"
+      },
+      {
+        "english": "God",
+        "cymru": "Dduw",
+        "image": "img625/Society-God.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Art",
+    "words": [
+      {
+        "english": "Art",
+        "cymru": "Celf",
+        "image": "img625/Art-Art.jpg"
+      },
+      {
+        "english": "band",
+        "cymru": "band",
+        "image": "img625/Art-band.jpg"
+      },
+      {
+        "english": "song",
+        "cymru": "caniad",
+        "image": "img625/Art-song.jpg"
+      },
+      {
+        "english": "musicalinstrument",
+        "cymru": "offeryn cerdd",
+        "image": "img625/Art-musicalinstrument.jpg"
+      },
+      {
+        "english": "music",
+        "cymru": "cerddoriaeth",
+        "image": "img625/Art-music.jpg"
+      },
+      {
+        "english": "movie",
+        "cymru": "ffilm",
+        "image": "img625/Art-movie.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Beverages",
+    "words": [
+      {
+        "english": "Beverages",
+        "cymru": "Diodydd",
+        "image": "img625/Beverages-Beverages.jpg"
+      },
+      {
+        "english": "coffee",
+        "cymru": "coffi",
+        "image": "img625/Beverages-coffee.jpg"
+      },
+      {
+        "english": "tea",
+        "cymru": "te",
+        "image": "img625/Beverages-tea.jpg"
+      },
+      {
+        "english": "wine",
+        "cymru": "gwin",
+        "image": "img625/Beverages-wine.jpg"
+      },
+      {
+        "english": "beer",
+        "cymru": "cwrw",
+        "image": "img625/Beverages-beer.jpg"
+      },
+      {
+        "english": "juice",
+        "cymru": "sudd",
+        "image": "img625/Beverages-juice.jpg"
+      },
+      {
+        "english": "water",
+        "cymru": "dwr",
+        "image": "img625/Beverages-water.jpg"
+      },
+      {
+        "english": "milk",
+        "cymru": "llefrith",
+        "image": "img625/Beverages-milk.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Food",
+    "words": [
+      {
+        "english": "Food",
+        "cymru": "Bwyd",
+        "image": "img625/Food-Food.jpg"
+      },
+      {
+        "english": "egg",
+        "cymru": "wy",
+        "image": "img625/Food-egg.jpg"
+      },
+      {
+        "english": "cheese",
+        "cymru": "caws",
+        "image": "img625/Food-cheese.jpg"
+      },
+      {
+        "english": "bread",
+        "cymru": "bara",
+        "image": "img625/Food-bread.jpg"
+      },
+      {
+        "english": "soup",
+        "cymru": "cawl",
+        "image": "img625/Food-soup.jpg"
+      },
+      {
+        "english": "cake",
+        "cymru": "cacen",
+        "image": "img625/Food-cake.jpg"
+      },
+      {
+        "english": "chicken",
+        "cymru": "cyw i\u00e2r",
+        "image": "img625/Food-chicken.jpg"
+      },
+      {
+        "english": "pork",
+        "cymru": "porc",
+        "image": "img625/Food-pork.jpg"
+      },
+      {
+        "english": "beef",
+        "cymru": "cig eidion",
+        "image": "img625/Food-beef.jpg"
+      },
+      {
+        "english": "apple",
+        "cymru": "afal",
+        "image": "img625/Food-apple.jpg"
+      },
+      {
+        "english": "banana",
+        "cymru": "banana",
+        "image": "img625/Food-banana.jpg"
+      },
+      {
+        "english": "orange",
+        "cymru": "oren",
+        "image": "img625/Food-orange.jpg"
+      },
+      {
+        "english": "lemon",
+        "cymru": "lemwn",
+        "image": "img625/Food-lemon.jpg"
+      },
+      {
+        "english": "corn",
+        "cymru": "yd",
+        "image": "img625/Food-corn.jpg"
+      },
+      {
+        "english": "rice",
+        "cymru": "reis",
+        "image": "img625/Food-rice.jpg"
+      },
+      {
+        "english": "oil",
+        "cymru": "olew",
+        "image": "img625/Food-oil.jpg"
+      },
+      {
+        "english": "seed",
+        "cymru": "Hedyn",
+        "image": "img625/Food-seed.jpg"
+      },
+      {
+        "english": "knife",
+        "cymru": "cyllell",
+        "image": "img625/Food-knife.jpg"
+      },
+      {
+        "english": "spoon",
+        "cymru": "llwy",
+        "image": "img625/Food-spoon.jpg"
+      },
+      {
+        "english": "fork",
+        "cymru": "fforch",
+        "image": "img625/Food-fork.jpg"
+      },
+      {
+        "english": "plate",
+        "cymru": "pl\u00e2t",
+        "image": "img625/Food-plate.jpg"
+      },
+      {
+        "english": "cup",
+        "cymru": "cwpan",
+        "image": "img625/Food-cup.jpg"
+      },
+      {
+        "english": "breakfast",
+        "cymru": "brecwast",
+        "image": "img625/Food-breakfast.jpg"
+      },
+      {
+        "english": "lunch",
+        "cymru": "cinio",
+        "image": "img625/Food-lunch.jpg"
+      },
+      {
+        "english": "dinner",
+        "cymru": "swper",
+        "image": "img625/Food-dinner.jpg"
+      },
+      {
+        "english": "sugar",
+        "cymru": "siwgr",
+        "image": "img625/Food-sugar.jpg"
+      },
+      {
+        "english": "salt",
+        "cymru": "halen",
+        "image": "img625/Food-salt.jpg"
+      },
+      {
+        "english": "bottle",
+        "cymru": "potel",
+        "image": "img625/Food-bottle.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Home",
+    "words": [
+      {
+        "english": "Home",
+        "cymru": "Cartref",
+        "image": "img625/Home-Home.jpg"
+      },
+      {
+        "english": "table",
+        "cymru": "bwrdd",
+        "image": "img625/Home-table.jpg"
+      },
+      {
+        "english": "chair",
+        "cymru": "cadair",
+        "image": "img625/Home-chair.jpg"
+      },
+      {
+        "english": "bed",
+        "cymru": "gwely",
+        "image": "img625/Home-bed.jpg"
+      },
+      {
+        "english": "dream",
+        "cymru": "breuddwyd",
+        "image": "img625/Home-dream.jpg"
+      },
+      {
+        "english": "window",
+        "cymru": "ffenestr",
+        "image": "img625/Home-window.jpg"
+      },
+      {
+        "english": "door",
+        "cymru": "drws",
+        "image": "img625/Home-door.jpg"
+      },
+      {
+        "english": "bedroom",
+        "cymru": "ystafell wely",
+        "image": "img625/Home-bedroom.jpg"
+      },
+      {
+        "english": "kitchen",
+        "cymru": "cegin",
+        "image": "img625/Home-kitchen.jpg"
+      },
+      {
+        "english": "bathroom",
+        "cymru": "ystafell ymolchi",
+        "image": "img625/Home-bathroom.jpg"
+      },
+      {
+        "english": "pencil",
+        "cymru": "pensil",
+        "image": "img625/Home-pencil.jpg"
+      },
+      {
+        "english": "pen",
+        "cymru": "pen",
+        "image": "img625/Home-pen.jpg"
+      },
+      {
+        "english": "photograph",
+        "cymru": "ffotograff",
+        "image": "img625/Home-photograph.jpg"
+      },
+      {
+        "english": "soap",
+        "cymru": "sebon",
+        "image": "img625/Home-soap.jpg"
+      },
+      {
+        "english": "book",
+        "cymru": "llyfr",
+        "image": "img625/Home-book.jpg"
+      },
+      {
+        "english": "page",
+        "cymru": "tudalen",
+        "image": "img625/Home-page.jpg"
+      },
+      {
+        "english": "key",
+        "cymru": "cywair",
+        "image": "img625/Home-key.jpg"
+      },
+      {
+        "english": "paint",
+        "cymru": "paent",
+        "image": "img625/Home-paint.jpg"
+      },
+      {
+        "english": "letter",
+        "cymru": "llythyren",
+        "image": "img625/Home-letter.jpg"
+      },
+      {
+        "english": "note",
+        "cymru": "Nodyn",
+        "image": "img625/Home-note.jpg"
+      },
+      {
+        "english": "wall",
+        "cymru": "wal",
+        "image": "img625/Home-wall.jpg"
+      },
+      {
+        "english": "paper",
+        "cymru": "papur",
+        "image": "img625/Home-paper.jpg"
+      },
+      {
+        "english": "floor",
+        "cymru": "llawr",
+        "image": "img625/Home-floor.jpg"
+      },
+      {
+        "english": "ceiling",
+        "cymru": "Nenfwd",
+        "image": "img625/Home-ceiling.jpg"
+      },
+      {
+        "english": "roof",
+        "cymru": "to",
+        "image": "img625/Home-roof.jpg"
+      },
+      {
+        "english": "pool",
+        "cymru": "pwll",
+        "image": "img625/Home-pool.jpg"
+      },
+      {
+        "english": "lock",
+        "cymru": "clo",
+        "image": "img625/Home-lock.jpg"
+      },
+      {
+        "english": "telephone",
+        "cymru": "ff\u00f4n",
+        "image": "img625/Home-telephone.jpg"
+      },
+      {
+        "english": "garden",
+        "cymru": "gardd",
+        "image": "img625/Home-garden.jpg"
+      },
+      {
+        "english": "yard",
+        "cymru": "iard",
+        "image": "img625/Home-yard.jpg"
+      },
+      {
+        "english": "needle",
+        "cymru": "nodwydd",
+        "image": "img625/Home-needle.jpg"
+      },
+      {
+        "english": "bag",
+        "cymru": "bag",
+        "image": "img625/Home-bag.jpg"
+      },
+      {
+        "english": "box",
+        "cymru": "bocs",
+        "image": "img625/Home-box.jpg"
+      },
+      {
+        "english": "gift",
+        "cymru": "anrheg",
+        "image": "img625/Home-gift.jpg"
+      },
+      {
+        "english": "card",
+        "cymru": "cerdyn",
+        "image": "img625/Home-card.jpg"
+      },
+      {
+        "english": "ring",
+        "cymru": "modrwy",
+        "image": "img625/Home-ring.jpg"
+      },
+      {
+        "english": "tool",
+        "cymru": "offeryn",
+        "image": "img625/Home-tool.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Electronics",
+    "words": [
+      {
+        "english": "Electronics",
+        "cymru": "Electroneg",
+        "image": "img625/Electronics-Electronics.jpg"
+      },
+      {
+        "english": "clock",
+        "cymru": "cloc",
+        "image": "img625/Electronics-clock.jpg"
+      },
+      {
+        "english": "lamp",
+        "cymru": "lamp",
+        "image": "img625/Electronics-lamp.jpg"
+      },
+      {
+        "english": "fan",
+        "cymru": "ffan",
+        "image": "img625/Electronics-fan.jpg"
+      },
+      {
+        "english": "mobile phone",
+        "cymru": "Ff\u00f4n Symudol",
+        "image": "img625/Electronics-mobile phone.jpg"
+      },
+      {
+        "english": "network",
+        "cymru": "rhwydwaith",
+        "image": "img625/Electronics-network.jpg"
+      },
+      {
+        "english": "computer",
+        "cymru": "cyfrifiadur",
+        "image": "img625/Electronics-computer.jpg"
+      },
+      {
+        "english": "computer program",
+        "cymru": "rhaglen gyfrifiadurol",
+        "image": "img625/Electronics-computer program.jpg"
+      },
+      {
+        "english": "laptop",
+        "cymru": "gliniadur",
+        "image": "img625/Electronics-laptop.jpg"
+      },
+      {
+        "english": "screen",
+        "cymru": "sgrin",
+        "image": "img625/Electronics-screen.jpg"
+      },
+      {
+        "english": "camera",
+        "cymru": "camera",
+        "image": "img625/Electronics-camera.jpg"
+      },
+      {
+        "english": "television",
+        "cymru": "teledu",
+        "image": "img625/Electronics-television.jpg"
+      },
+      {
+        "english": "radio",
+        "cymru": "radio",
+        "image": "img625/Electronics-radio.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Body",
+    "words": [
+      {
+        "english": "Body",
+        "cymru": "Corff",
+        "image": "img625/Body-Body.jpg"
+      },
+      {
+        "english": "head",
+        "cymru": "pen",
+        "image": "img625/Body-head.jpg"
+      },
+      {
+        "english": "neck",
+        "cymru": "gwddf",
+        "image": "img625/Body-neck.jpg"
+      },
+      {
+        "english": "face",
+        "cymru": "wyneb",
+        "image": "img625/Body-face.jpg"
+      },
+      {
+        "english": "beard",
+        "cymru": "barf",
+        "image": "img625/Body-beard.jpg"
+      },
+      {
+        "english": "hair",
+        "cymru": "gwallt",
+        "image": "img625/Body-hair.jpg"
+      },
+      {
+        "english": "eye",
+        "cymru": "llygad",
+        "image": "img625/Body-eye.jpg"
+      },
+      {
+        "english": "mouth",
+        "cymru": "ceg",
+        "image": "img625/Body-mouth.jpg"
+      },
+      {
+        "english": "lip",
+        "cymru": "gwefus",
+        "image": "img625/Body-lip.jpg"
+      },
+      {
+        "english": "nose",
+        "cymru": "trwyn",
+        "image": "img625/Body-nose.jpg"
+      },
+      {
+        "english": "tooth",
+        "cymru": "dant",
+        "image": "img625/Body-tooth.jpg"
+      },
+      {
+        "english": "ear",
+        "cymru": "clust",
+        "image": "img625/Body-ear.jpg"
+      },
+      {
+        "english": "tear drop",
+        "cymru": "gollwng dagrau",
+        "image": "img625/Body-tear drop.jpg"
+      },
+      {
+        "english": "tongue",
+        "cymru": "tafod",
+        "image": "img625/Body-tongue.jpg"
+      },
+      {
+        "english": "back",
+        "cymru": "yn ol",
+        "image": "img625/Body-back.jpg"
+      },
+      {
+        "english": "toe",
+        "cymru": "yna",
+        "image": "img625/Body-toe.jpg"
+      },
+      {
+        "english": "finger",
+        "cymru": "bys",
+        "image": "img625/Body-finger.jpg"
+      },
+      {
+        "english": "foot",
+        "cymru": "troed",
+        "image": "img625/Body-foot.jpg"
+      },
+      {
+        "english": "hand",
+        "cymru": "llaw",
+        "image": "img625/Body-hand.jpg"
+      },
+      {
+        "english": "leg",
+        "cymru": "coes",
+        "image": "img625/Body-leg.jpg"
+      },
+      {
+        "english": "arm",
+        "cymru": "braich",
+        "image": "img625/Body-arm.jpg"
+      },
+      {
+        "english": "shoulder",
+        "cymru": "ysgwydd",
+        "image": "img625/Body-shoulder.jpg"
+      },
+      {
+        "english": "heart",
+        "cymru": "calon",
+        "image": "img625/Body-heart.jpg"
+      },
+      {
+        "english": "blood",
+        "cymru": "gwaed",
+        "image": "img625/Body-blood.jpg"
+      },
+      {
+        "english": "brain",
+        "cymru": "ymenydd",
+        "image": "img625/Body-brain.jpg"
+      },
+      {
+        "english": "knee",
+        "cymru": "pen-glin",
+        "image": "img625/Body-knee.jpg"
+      },
+      {
+        "english": "sweat",
+        "cymru": "chwys",
+        "image": "img625/Body-sweat.jpg"
+      },
+      {
+        "english": "disease",
+        "cymru": "clefyd",
+        "image": "img625/Body-disease.jpg"
+      },
+      {
+        "english": "bone",
+        "cymru": "asgwrn",
+        "image": "img625/Body-bone.jpg"
+      },
+      {
+        "english": "voice",
+        "cymru": "llais",
+        "image": "img625/Body-voice.jpg"
+      },
+      {
+        "english": "skin",
+        "cymru": "croen",
+        "image": "img625/Body-skin.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Nature",
+    "words": [
+      {
+        "english": "Nature",
+        "cymru": "Natur",
+        "image": "img625/Nature-Nature.jpg"
+      },
+      {
+        "english": "sea",
+        "cymru": "m\u00f4r",
+        "image": "img625/Nature-sea.jpg"
+      },
+      {
+        "english": "ocean",
+        "cymru": "cefnfor",
+        "image": "img625/Nature-ocean.jpg"
+      },
+      {
+        "english": "river",
+        "cymru": "afon",
+        "image": "img625/Nature-river.jpg"
+      },
+      {
+        "english": "mountain",
+        "cymru": "mynydd",
+        "image": "img625/Nature-mountain.jpg"
+      },
+      {
+        "english": "rain",
+        "cymru": "glaw",
+        "image": "img625/Nature-rain.jpg"
+      },
+      {
+        "english": "snow",
+        "cymru": "eira",
+        "image": "img625/Nature-snow.jpg"
+      },
+      {
+        "english": "tree",
+        "cymru": "coeden",
+        "image": "img625/Nature-tree.jpg"
+      },
+      {
+        "english": "sun",
+        "cymru": "haul",
+        "image": "img625/Nature-sun.jpg"
+      },
+      {
+        "english": "moon",
+        "cymru": "lleuad",
+        "image": "img625/Nature-moon.jpg"
+      },
+      {
+        "english": "world",
+        "cymru": "byd",
+        "image": "img625/Nature-world.jpg"
+      },
+      {
+        "english": "Earth",
+        "cymru": "Daear",
+        "image": "img625/Nature-Earth.jpg"
+      },
+      {
+        "english": "forest",
+        "cymru": "coedwig",
+        "image": "img625/Nature-forest.jpg"
+      },
+      {
+        "english": "sky",
+        "cymru": "awyr",
+        "image": "img625/Nature-sky.jpg"
+      },
+      {
+        "english": "plant",
+        "cymru": "planhigyn",
+        "image": "img625/Nature-plant.jpg"
+      },
+      {
+        "english": "wind",
+        "cymru": "gwynt",
+        "image": "img625/Nature-wind.jpg"
+      },
+      {
+        "english": "soil",
+        "cymru": "pridd",
+        "image": "img625/Nature-soil.jpg"
+      },
+      {
+        "english": "flower",
+        "cymru": "blodeuyn",
+        "image": "img625/Nature-flower.jpg"
+      },
+      {
+        "english": "valley",
+        "cymru": "dyffryn",
+        "image": "img625/Nature-valley.jpg"
+      },
+      {
+        "english": "root",
+        "cymru": "gwraidd",
+        "image": "img625/Nature-root.jpg"
+      },
+      {
+        "english": "lake",
+        "cymru": "llyn",
+        "image": "img625/Nature-lake.jpg"
+      },
+      {
+        "english": "star",
+        "cymru": "seren",
+        "image": "img625/Nature-star.jpg"
+      },
+      {
+        "english": "grass",
+        "cymru": "gwair",
+        "image": "img625/Nature-grass.jpg"
+      },
+      {
+        "english": "leaf",
+        "cymru": "deilen",
+        "image": "img625/Nature-leaf.jpg"
+      },
+      {
+        "english": "air",
+        "cymru": "awyr",
+        "image": "img625/Nature-air.jpg"
+      },
+      {
+        "english": "sand",
+        "cymru": "tywod",
+        "image": "img625/Nature-sand.jpg"
+      },
+      {
+        "english": "beach",
+        "cymru": "traeth",
+        "image": "img625/Nature-beach.jpg"
+      },
+      {
+        "english": "wave",
+        "cymru": "ton",
+        "image": "img625/Nature-wave.jpg"
+      },
+      {
+        "english": "fire",
+        "cymru": "t\u00e2n",
+        "image": "img625/Nature-fire.jpg"
+      },
+      {
+        "english": "ice",
+        "cymru": "rhew",
+        "image": "img625/Nature-ice.jpg"
+      },
+      {
+        "english": "island",
+        "cymru": "ynys",
+        "image": "img625/Nature-island.jpg"
+      },
+      {
+        "english": "hill",
+        "cymru": "bryn",
+        "image": "img625/Nature-hill.jpg"
+      },
+      {
+        "english": "heat",
+        "cymru": "gwres",
+        "image": "img625/Nature-heat.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Materials",
+    "words": [
+      {
+        "english": "Materials",
+        "cymru": "Defnyddiau",
+        "image": "img625/Materials-Materials.jpg"
+      },
+      {
+        "english": "glass",
+        "cymru": "gwydr",
+        "image": "img625/Materials-glass.jpg"
+      },
+      {
+        "english": "metal",
+        "cymru": "metel",
+        "image": "img625/Materials-metal.jpg"
+      },
+      {
+        "english": "plastic",
+        "cymru": "plastig",
+        "image": "img625/Materials-plastic.jpg"
+      },
+      {
+        "english": "wood",
+        "cymru": "pren",
+        "image": "img625/Materials-wood.jpg"
+      },
+      {
+        "english": "stone",
+        "cymru": "carreg",
+        "image": "img625/Materials-stone.jpg"
+      },
+      {
+        "english": "diamond",
+        "cymru": "diemwnt",
+        "image": "img625/Materials-diamond.jpg"
+      },
+      {
+        "english": "clay",
+        "cymru": "clai",
+        "image": "img625/Materials-clay.jpg"
+      },
+      {
+        "english": "dust",
+        "cymru": "llwch",
+        "image": "img625/Materials-dust.jpg"
+      },
+      {
+        "english": "gold",
+        "cymru": "aur",
+        "image": "img625/Materials-gold.jpg"
+      },
+      {
+        "english": "copper",
+        "cymru": "copr",
+        "image": "img625/Materials-copper.jpg"
+      },
+      {
+        "english": "silver",
+        "cymru": "arian",
+        "image": "img625/Materials-silver.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Measurements",
+    "words": [
+      {
+        "english": "Measurements",
+        "cymru": "Mesuriadau",
+        "image": "img625/Measurements-Measurements.jpg"
+      },
+      {
+        "english": "meter",
+        "cymru": "metr",
+        "image": "img625/Measurements-meter.jpg"
+      },
+      {
+        "english": "centimeter",
+        "cymru": "centimedr",
+        "image": "img625/Measurements-centimeter.jpg"
+      },
+      {
+        "english": "kilogram",
+        "cymru": "cilogram",
+        "image": "img625/Measurements-kilogram.jpg"
+      },
+      {
+        "english": "inch",
+        "cymru": "modfedd",
+        "image": "img625/Measurements-inch.jpg"
+      },
+      {
+        "english": "foot",
+        "cymru": "troed",
+        "image": "img625/Measurements-foot.jpg"
+      },
+      {
+        "english": "pound",
+        "cymru": "pwys",
+        "image": "img625/Measurements-pound.jpg"
+      },
+      {
+        "english": "half",
+        "cymru": "hanner",
+        "image": "img625/Measurements-half.jpg"
+      },
+      {
+        "english": "circle",
+        "cymru": "cylch",
+        "image": "img625/Measurements-circle.jpg"
+      },
+      {
+        "english": "square",
+        "cymru": "sgwar",
+        "image": "img625/Measurements-square.jpg"
+      },
+      {
+        "english": "temperature",
+        "cymru": "tymheredd",
+        "image": "img625/Measurements-temperature.jpg"
+      },
+      {
+        "english": "date",
+        "cymru": "dyddiad",
+        "image": "img625/Measurements-date.jpg"
+      },
+      {
+        "english": "weight",
+        "cymru": "pwysau",
+        "image": "img625/Measurements-weight.jpg"
+      },
+      {
+        "english": "edge",
+        "cymru": "ymyl",
+        "image": "img625/Measurements-edge.jpg"
+      },
+      {
+        "english": "corner",
+        "cymru": "cornel",
+        "image": "img625/Measurements-corner.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Nouns",
+    "words": [
+      {
+        "english": "Nouns",
+        "cymru": "Enwau",
+        "image": "img625/Nouns-Nouns.jpg"
+      },
+      {
+        "english": "map",
+        "cymru": "map",
+        "image": "img625/Nouns-map.jpg"
+      },
+      {
+        "english": "dot",
+        "cymru": "dot",
+        "image": "img625/Nouns-dot.jpg"
+      },
+      {
+        "english": "consonant",
+        "cymru": "cytsain",
+        "image": "img625/Nouns-consonant.jpg"
+      },
+      {
+        "english": "vowel",
+        "cymru": "llafariad",
+        "image": "img625/Nouns-vowel.jpg"
+      },
+      {
+        "english": "light",
+        "cymru": "golau",
+        "image": "img625/Nouns-light.jpg"
+      },
+      {
+        "english": "sound",
+        "cymru": "sain",
+        "image": "img625/Nouns-sound.jpg"
+      },
+      {
+        "english": "yes",
+        "cymru": "oes",
+        "image": "img625/Nouns-yes.jpg"
+      },
+      {
+        "english": "no",
+        "cymru": "nac oes",
+        "image": "img625/Nouns-no.jpg"
+      },
+      {
+        "english": "piece",
+        "cymru": "darn",
+        "image": "img625/Nouns-piece.jpg"
+      },
+      {
+        "english": "pain",
+        "cymru": "poen",
+        "image": "img625/Nouns-pain.jpg"
+      },
+      {
+        "english": "injury",
+        "cymru": "anaf",
+        "image": "img625/Nouns-injury.jpg"
+      },
+      {
+        "english": "hole",
+        "cymru": "twll",
+        "image": "img625/Nouns-hole.jpg"
+      },
+      {
+        "english": "image",
+        "cymru": "delwedd",
+        "image": "img625/Nouns-image.jpg"
+      },
+      {
+        "english": "pattern",
+        "cymru": "patrwm",
+        "image": "img625/Nouns-pattern.jpg"
+      },
+      {
+        "english": "noun",
+        "cymru": "Enw",
+        "image": "img625/Nouns-noun.jpg"
+      },
+      {
+        "english": "verb",
+        "cymru": "berf",
+        "image": "img625/Nouns-verb.jpg"
+      },
+      {
+        "english": "adjective",
+        "cymru": "ansoddair",
+        "image": "img625/Nouns-adjective.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Directions",
+    "words": [
+      {
+        "english": "Directions",
+        "cymru": "Cyfarwyddiadau",
+        "image": "img625/Directions-Directions.jpg"
+      },
+      {
+        "english": "top",
+        "cymru": "brig",
+        "image": "img625/Directions-top.jpg"
+      },
+      {
+        "english": "bottom",
+        "cymru": "gwaelod",
+        "image": "img625/Directions-bottom.jpg"
+      },
+      {
+        "english": "side",
+        "cymru": "ochr",
+        "image": "img625/Directions-side.jpg"
+      },
+      {
+        "english": "front",
+        "cymru": "blaen",
+        "image": "img625/Directions-front.jpg"
+      },
+      {
+        "english": "back",
+        "cymru": "yn ol",
+        "image": "img625/Directions-back.jpg"
+      },
+      {
+        "english": "outside",
+        "cymru": "tu allan",
+        "image": "img625/Directions-outside.jpg"
+      },
+      {
+        "english": "inside",
+        "cymru": "tu mewn",
+        "image": "img625/Directions-inside.jpg"
+      },
+      {
+        "english": "up",
+        "cymru": "i fyny",
+        "image": "img625/Directions-up.jpg"
+      },
+      {
+        "english": "down",
+        "cymru": "i lawr",
+        "image": "img625/Directions-down.jpg"
+      },
+      {
+        "english": "left",
+        "cymru": "chwith",
+        "image": "img625/Directions-left.jpg"
+      },
+      {
+        "english": "right",
+        "cymru": "iawn",
+        "image": "img625/Directions-right.jpg"
+      },
+      {
+        "english": "straight",
+        "cymru": "syth",
+        "image": "img625/Directions-straight.jpg"
+      },
+      {
+        "english": "north",
+        "cymru": "gogledd",
+        "image": "img625/Directions-north.jpg"
+      },
+      {
+        "english": "south",
+        "cymru": "de",
+        "image": "img625/Directions-south.jpg"
+      },
+      {
+        "english": "east",
+        "cymru": "dwyrain",
+        "image": "img625/Directions-east.jpg"
+      },
+      {
+        "english": "west",
+        "cymru": "gorllewin",
+        "image": "img625/Directions-west.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Seasons",
+    "words": [
+      {
+        "english": "Seasons",
+        "cymru": "tymhorau",
+        "image": "img625/Seasons-Seasons.jpg"
+      },
+      {
+        "english": "Summer",
+        "cymru": "Haf",
+        "image": "img625/Seasons-Summer.jpg"
+      },
+      {
+        "english": "Spring",
+        "cymru": "Gwanwyn",
+        "image": "img625/Seasons-Spring.jpg"
+      },
+      {
+        "english": "Winter",
+        "cymru": "Gaeaf",
+        "image": "img625/Seasons-Winter.jpg"
+      },
+      {
+        "english": "Fall",
+        "cymru": "Cwymp",
+        "image": "img625/Seasons-Fall.jpg"
+      },
+      {
+        "english": "season",
+        "cymru": "tymor",
+        "image": "img625/Seasons-season.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Numbers",
+    "words": [
+      {
+        "english": "Numbers",
+        "cymru": "Rhifau",
+        "image": "img625/Numbers-Numbers.jpg"
+      },
+      {
+        "english": "zero",
+        "cymru": "sero",
+        "image": "img625/Numbers-zero.jpg"
+      },
+      {
+        "english": "one",
+        "cymru": "un",
+        "image": "img625/Numbers-one.jpg"
+      },
+      {
+        "english": "two",
+        "cymru": "dwy",
+        "image": "img625/Numbers-two.jpg"
+      },
+      {
+        "english": "three",
+        "cymru": "tri",
+        "image": "img625/Numbers-three.jpg"
+      },
+      {
+        "english": "four",
+        "cymru": "pedwar",
+        "image": "img625/Numbers-four.jpg"
+      },
+      {
+        "english": "five",
+        "cymru": "pump",
+        "image": "img625/Numbers-five.jpg"
+      },
+      {
+        "english": "six",
+        "cymru": "chwech",
+        "image": "img625/Numbers-six.jpg"
+      },
+      {
+        "english": "seven",
+        "cymru": "saith",
+        "image": "img625/Numbers-seven.jpg"
+      },
+      {
+        "english": "eight",
+        "cymru": "wyth",
+        "image": "img625/Numbers-eight.jpg"
+      },
+      {
+        "english": "nine",
+        "cymru": "naw",
+        "image": "img625/Numbers-nine.jpg"
+      },
+      {
+        "english": "ten",
+        "cymru": "deg",
+        "image": "img625/Numbers-ten.jpg"
+      },
+      {
+        "english": "eleven",
+        "cymru": "unarddeg",
+        "image": "img625/Numbers-eleven.jpg"
+      },
+      {
+        "english": "twelve",
+        "cymru": "deuddeg",
+        "image": "img625/Numbers-twelve.jpg"
+      },
+      {
+        "english": "thirteen",
+        "cymru": "tri ar ddeg",
+        "image": "img625/Numbers-thirteen.jpg"
+      },
+      {
+        "english": "fourteen",
+        "cymru": "Pedwar ar ddeg",
+        "image": "img625/Numbers-fourteen.jpg"
+      },
+      {
+        "english": "fiftenn",
+        "cymru": "pymtheg",
+        "image": "img625/Numbers-fiftenn.jpg"
+      },
+      {
+        "english": "sixteen",
+        "cymru": "un ar bymtheg",
+        "image": "img625/Numbers-sixteen.jpg"
+      },
+      {
+        "english": "seventeen",
+        "cymru": "dwy ar bymtheg",
+        "image": "img625/Numbers-seventeen.jpg"
+      },
+      {
+        "english": "eighteen",
+        "cymru": "deunaw",
+        "image": "img625/Numbers-eighteen.jpg"
+      },
+      {
+        "english": "nineteen",
+        "cymru": "pedwar ar bymtheg",
+        "image": "img625/Numbers-nineteen.jpg"
+      },
+      {
+        "english": "twenty",
+        "cymru": "ugain",
+        "image": "img625/Numbers-twenty.jpg"
+      },
+      {
+        "english": "twenty-one",
+        "cymru": "dau ddeg un",
+        "image": "img625/Numbers-twenty-one.jpg"
+      },
+      {
+        "english": "twenty-two",
+        "cymru": "dau ar hugain",
+        "image": "img625/Numbers-twenty-two.jpg"
+      },
+      {
+        "english": "thirty",
+        "cymru": "deg ar hugain",
+        "image": "img625/Numbers-thirty.jpg"
+      },
+      {
+        "english": "thirty-one",
+        "cymru": "tri deg un",
+        "image": "img625/Numbers-thirty-one.jpg"
+      },
+      {
+        "english": "thirty-two",
+        "cymru": "tridegdau",
+        "image": "img625/Numbers-thirty-two.jpg"
+      },
+      {
+        "english": "fourty",
+        "cymru": "pedwar deg",
+        "image": "img625/Numbers-fourty.jpg"
+      },
+      {
+        "english": "fourty-one",
+        "cymru": "pedwar deg un",
+        "image": "img625/Numbers-fourty-one.jpg"
+      },
+      {
+        "english": "fourty-two",
+        "cymru": "pedwar deg dau",
+        "image": "img625/Numbers-fourty-two.jpg"
+      },
+      {
+        "english": "fifty",
+        "cymru": "hanner cant",
+        "image": "img625/Numbers-fifty.jpg"
+      },
+      {
+        "english": "fifty-one",
+        "cymru": "Pumdeg un",
+        "image": "img625/Numbers-fifty-one.jpg"
+      },
+      {
+        "english": "fifty-two",
+        "cymru": "pum deg dau",
+        "image": "img625/Numbers-fifty-two.jpg"
+      },
+      {
+        "english": "sixty",
+        "cymru": "trigain",
+        "image": "img625/Numbers-sixty.jpg"
+      },
+      {
+        "english": "sixty-one",
+        "cymru": "chwe deg un",
+        "image": "img625/Numbers-sixty-one.jpg"
+      },
+      {
+        "english": "sixty-two",
+        "cymru": "chwe deg dau",
+        "image": "img625/Numbers-sixty-two.jpg"
+      },
+      {
+        "english": "seventy",
+        "cymru": "saith deg",
+        "image": "img625/Numbers-seventy.jpg"
+      },
+      {
+        "english": "seventy-one",
+        "cymru": "saith deg un",
+        "image": "img625/Numbers-seventy-one.jpg"
+      },
+      {
+        "english": "seventy-two",
+        "cymru": "saith deg dau",
+        "image": "img625/Numbers-seventy-two.jpg"
+      },
+      {
+        "english": "eighty",
+        "cymru": "wythdeg",
+        "image": "img625/Numbers-eighty.jpg"
+      },
+      {
+        "english": "eighty-one",
+        "cymru": "wyth deg un",
+        "image": "img625/Numbers-eighty-one.jpg"
+      },
+      {
+        "english": "eighty-two",
+        "cymru": "wyth deg dau",
+        "image": "img625/Numbers-eighty-two.jpg"
+      },
+      {
+        "english": "ninety",
+        "cymru": "naw deg",
+        "image": "img625/Numbers-ninety.jpg"
+      },
+      {
+        "english": "ninety-one",
+        "cymru": "naw deg un",
+        "image": "img625/Numbers-ninety-one.jpg"
+      },
+      {
+        "english": "ninety-two",
+        "cymru": "naw deg dau",
+        "image": "img625/Numbers-ninety-two.jpg"
+      },
+      {
+        "english": "one hundred",
+        "cymru": "cant",
+        "image": "img625/Numbers-one hundred.jpg"
+      },
+      {
+        "english": "one hundred and one",
+        "cymru": "cant ac un",
+        "image": "img625/Numbers-one hundred and one.jpg"
+      },
+      {
+        "english": "one hundred and two",
+        "cymru": "cant a dau",
+        "image": "img625/Numbers-one hundred and two.jpg"
+      },
+      {
+        "english": "one hundred and ten",
+        "cymru": "cant a deg",
+        "image": "img625/Numbers-one hundred and ten.jpg"
+      },
+      {
+        "english": "one hundred and eleven",
+        "cymru": "cant ac un ar ddeg",
+        "image": "img625/Numbers-one hundred and eleven.jpg"
+      },
+      {
+        "english": "one thousand",
+        "cymru": "mil",
+        "image": "img625/Numbers-one thousand.jpg"
+      },
+      {
+        "english": "one thousand and one",
+        "cymru": "mil ac un",
+        "image": "img625/Numbers-one thousand and one.jpg"
+      },
+      {
+        "english": "ten thousand",
+        "cymru": "deng mil",
+        "image": "img625/Numbers-ten thousand.jpg"
+      },
+      {
+        "english": "one hundred thousand",
+        "cymru": "can mil",
+        "image": "img625/Numbers-one hundred thousand.jpg"
+      },
+      {
+        "english": "million",
+        "cymru": "miliwn",
+        "image": "img625/Numbers-million.jpg"
+      },
+      {
+        "english": "billion",
+        "cymru": "biliwn",
+        "image": "img625/Numbers-billion.jpg"
+      },
+      {
+        "english": "first",
+        "cymru": "yn gyntaf",
+        "image": "img625/Numbers-first.jpg"
+      },
+      {
+        "english": "second",
+        "cymru": "ail",
+        "image": "img625/Numbers-second.jpg"
+      },
+      {
+        "english": "third",
+        "cymru": "trydydd",
+        "image": "img625/Numbers-third.jpg"
+      },
+      {
+        "english": "fourth",
+        "cymru": "pedwerydd",
+        "image": "img625/Numbers-fourth.jpg"
+      },
+      {
+        "english": "fifth",
+        "cymru": "pumed",
+        "image": "img625/Numbers-fifth.jpg"
+      },
+      {
+        "english": "number",
+        "cymru": "rhif",
+        "image": "img625/Numbers-number.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Months",
+    "words": [
+      {
+        "english": "Months",
+        "cymru": "Misoedd",
+        "image": "img625/Months-Months.jpg"
+      },
+      {
+        "english": "January",
+        "cymru": "Ionawr",
+        "image": "img625/Months-January.jpg"
+      },
+      {
+        "english": "February",
+        "cymru": "Chwefror",
+        "image": "img625/Months-February.jpg"
+      },
+      {
+        "english": "March",
+        "cymru": "Mawrth",
+        "image": "img625/Months-March.jpg"
+      },
+      {
+        "english": "April",
+        "cymru": "Ebrill",
+        "image": "img625/Months-April.jpg"
+      },
+      {
+        "english": "May",
+        "cymru": "Mai",
+        "image": "img625/Months-May.jpg"
+      },
+      {
+        "english": "June",
+        "cymru": "Mehefin",
+        "image": "img625/Months-June.jpg"
+      },
+      {
+        "english": "July",
+        "cymru": "Gorffennaf",
+        "image": "img625/Months-July.jpg"
+      },
+      {
+        "english": "August",
+        "cymru": "Awst",
+        "image": "img625/Months-August.jpg"
+      },
+      {
+        "english": "September",
+        "cymru": "Medi",
+        "image": "img625/Months-September.jpg"
+      },
+      {
+        "english": "October",
+        "cymru": "Hydref",
+        "image": "img625/Months-October.jpg"
+      },
+      {
+        "english": "November",
+        "cymru": "Tachwedd",
+        "image": "img625/Months-November.jpg"
+      },
+      {
+        "english": "December",
+        "cymru": "Rhagfyr",
+        "image": "img625/Months-December.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Days of the week",
+    "words": [
+      {
+        "english": "Days of the week",
+        "cymru": "Dyddiau'r Wythnos",
+        "image": "img625/Days of the week-Days of the week.jpg"
+      },
+      {
+        "english": "Monday",
+        "cymru": "Dydd Llun",
+        "image": "img625/Days of the week-Monday.jpg"
+      },
+      {
+        "english": "Tuesday",
+        "cymru": "Dydd Mawrth",
+        "image": "img625/Days of the week-Tuesday.jpg"
+      },
+      {
+        "english": "Wednesday",
+        "cymru": "Mercher",
+        "image": "img625/Days of the week-Wednesday.jpg"
+      },
+      {
+        "english": "Thursday",
+        "cymru": "dydd Iau",
+        "image": "img625/Days of the week-Thursday.jpg"
+      },
+      {
+        "english": "Friday",
+        "cymru": "Gwener",
+        "image": "img625/Days of the week-Friday.jpg"
+      },
+      {
+        "english": "Saturday",
+        "cymru": "dydd Sadwrn",
+        "image": "img625/Days of the week-Saturday.jpg"
+      },
+      {
+        "english": "Sunday",
+        "cymru": "Sul",
+        "image": "img625/Days of the week-Sunday.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Time",
+    "words": [
+      {
+        "english": "Time",
+        "cymru": "Amser",
+        "image": "img625/Time-Time.jpg"
+      },
+      {
+        "english": "year",
+        "cymru": "blwyddyn",
+        "image": "img625/Time-year.jpg"
+      },
+      {
+        "english": "month",
+        "cymru": "mis",
+        "image": "img625/Time-month.jpg"
+      },
+      {
+        "english": "week",
+        "cymru": "wythnos",
+        "image": "img625/Time-week.jpg"
+      },
+      {
+        "english": "day",
+        "cymru": "Dydd",
+        "image": "img625/Time-day.jpg"
+      },
+      {
+        "english": "hour",
+        "cymru": "awr",
+        "image": "img625/Time-hour.jpg"
+      },
+      {
+        "english": "minute",
+        "cymru": "munud",
+        "image": "img625/Time-minute.jpg"
+      },
+      {
+        "english": "second",
+        "cymru": "ail",
+        "image": "img625/Time-second.jpg"
+      },
+      {
+        "english": "morning",
+        "cymru": "boreu",
+        "image": "img625/Time-morning.jpg"
+      },
+      {
+        "english": "afternoon",
+        "cymru": "prynhawn",
+        "image": "img625/Time-afternoon.jpg"
+      },
+      {
+        "english": "evening",
+        "cymru": "noswaith",
+        "image": "img625/Time-evening.jpg"
+      },
+      {
+        "english": "night",
+        "cymru": "nos",
+        "image": "img625/Time-night.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Verbs",
+    "words": [
+      {
+        "english": "Verbs",
+        "cymru": "Berfau",
+        "image": "img625/Verbs-Verbs.jpg"
+      },
+      {
+        "english": "work",
+        "cymru": "gwaith",
+        "image": "img625/Verbs-work.jpg"
+      },
+      {
+        "english": "play",
+        "cymru": "chwarae",
+        "image": "img625/Verbs-play.jpg"
+      },
+      {
+        "english": "walk",
+        "cymru": "cerdded",
+        "image": "img625/Verbs-walk.jpg"
+      },
+      {
+        "english": "run",
+        "cymru": "rhedeg",
+        "image": "img625/Verbs-run.jpg"
+      },
+      {
+        "english": "drive",
+        "cymru": "gyrru",
+        "image": "img625/Verbs-drive.jpg"
+      },
+      {
+        "english": "fly",
+        "cymru": "hedfan",
+        "image": "img625/Verbs-fly.jpg"
+      },
+      {
+        "english": "swim",
+        "cymru": "nofio",
+        "image": "img625/Verbs-swim.jpg"
+      },
+      {
+        "english": "go",
+        "cymru": "mynd",
+        "image": "img625/Verbs-go.jpg"
+      },
+      {
+        "english": "stop",
+        "cymru": "stopio",
+        "image": "img625/Verbs-stop.jpg"
+      },
+      {
+        "english": "follow",
+        "cymru": "dilyn",
+        "image": "img625/Verbs-follow.jpg"
+      },
+      {
+        "english": "think",
+        "cymru": "meddwl",
+        "image": "img625/Verbs-think.jpg"
+      },
+      {
+        "english": "speak",
+        "cymru": "siarad",
+        "image": "img625/Verbs-speak.jpg"
+      },
+      {
+        "english": "say",
+        "cymru": "dywedwch",
+        "image": "img625/Verbs-say.jpg"
+      },
+      {
+        "english": "eat",
+        "cymru": "bwyta",
+        "image": "img625/Verbs-eat.jpg"
+      },
+      {
+        "english": "drink",
+        "cymru": "yfed",
+        "image": "img625/Verbs-drink.jpg"
+      },
+      {
+        "english": "kill",
+        "cymru": "lladd",
+        "image": "img625/Verbs-kill.jpg"
+      },
+      {
+        "english": "die",
+        "cymru": "yr",
+        "image": "img625/Verbs-die.jpg"
+      },
+      {
+        "english": "smile",
+        "cymru": "gwenu",
+        "image": "img625/Verbs-smile.jpg"
+      },
+      {
+        "english": "laugh",
+        "cymru": "chwerthin",
+        "image": "img625/Verbs-laugh.jpg"
+      },
+      {
+        "english": "cry",
+        "cymru": "crio",
+        "image": "img625/Verbs-cry.jpg"
+      },
+      {
+        "english": "buy",
+        "cymru": "prynu",
+        "image": "img625/Verbs-buy.jpg"
+      },
+      {
+        "english": "pay",
+        "cymru": "talu",
+        "image": "img625/Verbs-pay.jpg"
+      },
+      {
+        "english": "sell",
+        "cymru": "gwerthu",
+        "image": "img625/Verbs-sell.jpg"
+      },
+      {
+        "english": "shoot",
+        "cymru": "saethu",
+        "image": "img625/Verbs-shoot.jpg"
+      },
+      {
+        "english": "learn",
+        "cymru": "dysgu",
+        "image": "img625/Verbs-learn.jpg"
+      },
+      {
+        "english": "jump",
+        "cymru": "neidio",
+        "image": "img625/Verbs-jump.jpg"
+      },
+      {
+        "english": "smell",
+        "cymru": "arogli",
+        "image": "img625/Verbs-smell.jpg"
+      },
+      {
+        "english": "hear",
+        "cymru": "clywed",
+        "image": "img625/Verbs-hear.jpg"
+      },
+      {
+        "english": "listen",
+        "cymru": "gwrandewch",
+        "image": "img625/Verbs-listen.jpg"
+      },
+      {
+        "english": "taste",
+        "cymru": "blas",
+        "image": "img625/Verbs-taste.jpg"
+      },
+      {
+        "english": "touch",
+        "cymru": "cyffwrdd",
+        "image": "img625/Verbs-touch.jpg"
+      },
+      {
+        "english": "see",
+        "cymru": "gw",
+        "image": "img625/Verbs-see.jpg"
+      },
+      {
+        "english": "watch TV",
+        "cymru": "gwylio teledu",
+        "image": "img625/Verbs-watch TV.jpg"
+      },
+      {
+        "english": "kiss",
+        "cymru": "cusan",
+        "image": "img625/Verbs-kiss.jpg"
+      },
+      {
+        "english": "burn",
+        "cymru": "llosgi",
+        "image": "img625/Verbs-burn.jpg"
+      },
+      {
+        "english": "melt",
+        "cymru": "toddi",
+        "image": "img625/Verbs-melt.jpg"
+      },
+      {
+        "english": "dig",
+        "cymru": "ti",
+        "image": "img625/Verbs-dig.jpg"
+      },
+      {
+        "english": "explode",
+        "cymru": "ffrwydro",
+        "image": "img625/Verbs-explode.jpg"
+      },
+      {
+        "english": "sit",
+        "cymru": "eistedd",
+        "image": "img625/Verbs-sit.jpg"
+      },
+      {
+        "english": "stand",
+        "cymru": "sefyll",
+        "image": "img625/Verbs-stand.jpg"
+      },
+      {
+        "english": "love",
+        "cymru": "cariad",
+        "image": "img625/Verbs-love.jpg"
+      },
+      {
+        "english": "pass by",
+        "cymru": "mynd heibio",
+        "image": "img625/Verbs-pass by.jpg"
+      },
+      {
+        "english": "cut",
+        "cymru": "torri",
+        "image": "img625/Verbs-cut.jpg"
+      },
+      {
+        "english": "fight",
+        "cymru": "ymladd",
+        "image": "img625/Verbs-fight.jpg"
+      },
+      {
+        "english": "lie down",
+        "cymru": "gorwedd i lawr",
+        "image": "img625/Verbs-lie down.jpg"
+      },
+      {
+        "english": "dance",
+        "cymru": "dawns",
+        "image": "img625/Verbs-dance.jpg"
+      },
+      {
+        "english": "sleep",
+        "cymru": "cwsg",
+        "image": "img625/Verbs-sleep.jpg"
+      },
+      {
+        "english": "wake up",
+        "cymru": "deffro",
+        "image": "img625/Verbs-wake up.jpg"
+      },
+      {
+        "english": "sing",
+        "cymru": "canu",
+        "image": "img625/Verbs-sing.jpg"
+      },
+      {
+        "english": "count",
+        "cymru": "cyfrif",
+        "image": "img625/Verbs-count.jpg"
+      },
+      {
+        "english": "marry",
+        "cymru": "priodi",
+        "image": "img625/Verbs-marry.jpg"
+      },
+      {
+        "english": "pray",
+        "cymru": "gweddio",
+        "image": "img625/Verbs-pray.jpg"
+      },
+      {
+        "english": "win",
+        "cymru": "ennill",
+        "image": "img625/Verbs-win.jpg"
+      },
+      {
+        "english": "lose",
+        "cymru": "colli",
+        "image": "img625/Verbs-lose.jpg"
+      },
+      {
+        "english": "mix",
+        "cymru": "cymysgwch",
+        "image": "img625/Verbs-mix.jpg"
+      },
+      {
+        "english": "stir",
+        "cymru": "troi",
+        "image": "img625/Verbs-stir.jpg"
+      },
+      {
+        "english": "bend",
+        "cymru": "plygu",
+        "image": "img625/Verbs-bend.jpg"
+      },
+      {
+        "english": "wash",
+        "cymru": "golchi",
+        "image": "img625/Verbs-wash.jpg"
+      },
+      {
+        "english": "cook",
+        "cymru": "coginio",
+        "image": "img625/Verbs-cook.jpg"
+      },
+      {
+        "english": "open",
+        "cymru": "agored",
+        "image": "img625/Verbs-open.jpg"
+      },
+      {
+        "english": "close",
+        "cymru": "cau",
+        "image": "img625/Verbs-close.jpg"
+      },
+      {
+        "english": "write",
+        "cymru": "ysgrifennu",
+        "image": "img625/Verbs-write.jpg"
+      },
+      {
+        "english": "call",
+        "cymru": "galw",
+        "image": "img625/Verbs-call.jpg"
+      },
+      {
+        "english": "turn",
+        "cymru": "tro",
+        "image": "img625/Verbs-turn.jpg"
+      },
+      {
+        "english": "build",
+        "cymru": "adeiladu",
+        "image": "img625/Verbs-build.jpg"
+      },
+      {
+        "english": "teach",
+        "cymru": "addysgu",
+        "image": "img625/Verbs-teach.jpg"
+      },
+      {
+        "english": "grow",
+        "cymru": "tyfu",
+        "image": "img625/Verbs-grow.jpg"
+      },
+      {
+        "english": "draw",
+        "cymru": "tynnu",
+        "image": "img625/Verbs-draw.jpg"
+      },
+      {
+        "english": "feed",
+        "cymru": "ymborth",
+        "image": "img625/Verbs-feed.jpg"
+      },
+      {
+        "english": "catch",
+        "cymru": "dal",
+        "image": "img625/Verbs-catch.jpg"
+      },
+      {
+        "english": "throw",
+        "cymru": "taflu",
+        "image": "img625/Verbs-throw.jpg"
+      },
+      {
+        "english": "clean",
+        "cymru": "glan",
+        "image": "img625/Verbs-clean.jpg"
+      },
+      {
+        "english": "find",
+        "cymru": "dod o hyd",
+        "image": "img625/Verbs-find.jpg"
+      },
+      {
+        "english": "fall",
+        "cymru": "disgyn",
+        "image": "img625/Verbs-fall.jpg"
+      },
+      {
+        "english": "push",
+        "cymru": "gwthio",
+        "image": "img625/Verbs-push.jpg"
+      },
+      {
+        "english": "pull",
+        "cymru": "tynnu",
+        "image": "img625/Verbs-pull.jpg"
+      },
+      {
+        "english": "carry",
+        "cymru": "cario",
+        "image": "img625/Verbs-carry.jpg"
+      },
+      {
+        "english": "break",
+        "cymru": "torri",
+        "image": "img625/Verbs-break.jpg"
+      },
+      {
+        "english": "wear",
+        "cymru": "gwisgo",
+        "image": "img625/Verbs-wear.jpg"
+      },
+      {
+        "english": "hang",
+        "cymru": "hongian",
+        "image": "img625/Verbs-hang.jpg"
+      },
+      {
+        "english": "shake",
+        "cymru": "ysgwyd",
+        "image": "img625/Verbs-shake.jpg"
+      },
+      {
+        "english": "sign",
+        "cymru": "arwydd",
+        "image": "img625/Verbs-sign.jpg"
+      },
+      {
+        "english": "beat",
+        "cymru": "curiad",
+        "image": "img625/Verbs-beat.jpg"
+      },
+      {
+        "english": "lift",
+        "cymru": "lifft",
+        "image": "img625/Verbs-lift.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Adjectives",
+    "words": [
+      {
+        "english": "Adjectives",
+        "cymru": "Ansoddeiriau",
+        "image": "img625/Adjectives-Adjectives.jpg"
+      },
+      {
+        "english": "long",
+        "cymru": "hir",
+        "image": "img625/Adjectives-long.jpg"
+      },
+      {
+        "english": "short",
+        "cymru": "byr",
+        "image": "img625/Adjectives-short.jpg"
+      },
+      {
+        "english": "tall",
+        "cymru": "tal",
+        "image": "img625/Adjectives-tall.jpg"
+      },
+      {
+        "english": "wide",
+        "cymru": "llydan",
+        "image": "img625/Adjectives-wide.jpg"
+      },
+      {
+        "english": "narrow",
+        "cymru": "cul",
+        "image": "img625/Adjectives-narrow.jpg"
+      },
+      {
+        "english": "big",
+        "cymru": "mawr",
+        "image": "img625/Adjectives-big.jpg"
+      },
+      {
+        "english": "large",
+        "cymru": "mawr",
+        "image": "img625/Adjectives-large.jpg"
+      },
+      {
+        "english": "small",
+        "cymru": "bach",
+        "image": "img625/Adjectives-small.jpg"
+      },
+      {
+        "english": "little",
+        "cymru": "ychydig",
+        "image": "img625/Adjectives-little.jpg"
+      },
+      {
+        "english": "slow",
+        "cymru": "araf",
+        "image": "img625/Adjectives-slow.jpg"
+      },
+      {
+        "english": "fast",
+        "cymru": "cyflym",
+        "image": "img625/Adjectives-fast.jpg"
+      },
+      {
+        "english": "hot",
+        "cymru": "poeth",
+        "image": "img625/Adjectives-hot.jpg"
+      },
+      {
+        "english": "cold",
+        "cymru": "oerfel",
+        "image": "img625/Adjectives-cold.jpg"
+      },
+      {
+        "english": "warm",
+        "cymru": "cynnes",
+        "image": "img625/Adjectives-warm.jpg"
+      },
+      {
+        "english": "cool",
+        "cymru": "cwl",
+        "image": "img625/Adjectives-cool.jpg"
+      },
+      {
+        "english": "new",
+        "cymru": "newydd",
+        "image": "img625/Adjectives-new.jpg"
+      },
+      {
+        "english": "old",
+        "cymru": "hen",
+        "image": "img625/Adjectives-old.jpg"
+      },
+      {
+        "english": "new",
+        "cymru": "newydd",
+        "image": "img625/Adjectives-new.jpg"
+      },
+      {
+        "english": "young",
+        "cymru": "ifanc",
+        "image": "img625/Adjectives-young.jpg"
+      },
+      {
+        "english": "good",
+        "cymru": "dda",
+        "image": "img625/Adjectives-good.jpg"
+      },
+      {
+        "english": "bad",
+        "cymru": "drwg",
+        "image": "img625/Adjectives-bad.jpg"
+      },
+      {
+        "english": "wet",
+        "cymru": "gwlyb",
+        "image": "img625/Adjectives-wet.jpg"
+      },
+      {
+        "english": "dry",
+        "cymru": "sych",
+        "image": "img625/Adjectives-dry.jpg"
+      },
+      {
+        "english": "sick",
+        "cymru": "s\u00e2l",
+        "image": "img625/Adjectives-sick.jpg"
+      },
+      {
+        "english": "healthy",
+        "cymru": "iach",
+        "image": "img625/Adjectives-healthy.jpg"
+      },
+      {
+        "english": "loud",
+        "cymru": "uchel",
+        "image": "img625/Adjectives-loud.jpg"
+      },
+      {
+        "english": "quiet",
+        "cymru": "dawel",
+        "image": "img625/Adjectives-quiet.jpg"
+      },
+      {
+        "english": "happy",
+        "cymru": "hapus",
+        "image": "img625/Adjectives-happy.jpg"
+      },
+      {
+        "english": "sad",
+        "cymru": "trist",
+        "image": "img625/Adjectives-sad.jpg"
+      },
+      {
+        "english": "beautiful",
+        "cymru": "hardd",
+        "image": "img625/Adjectives-beautiful.jpg"
+      },
+      {
+        "english": "ugly",
+        "cymru": "hyll",
+        "image": "img625/Adjectives-ugly.jpg"
+      },
+      {
+        "english": "deaf",
+        "cymru": "byddar",
+        "image": "img625/Adjectives-deaf.jpg"
+      },
+      {
+        "english": "blind",
+        "cymru": "ddall",
+        "image": "img625/Adjectives-blind.jpg"
+      },
+      {
+        "english": "nice",
+        "cymru": "braf",
+        "image": "img625/Adjectives-nice.jpg"
+      },
+      {
+        "english": "mean",
+        "cymru": "golygu",
+        "image": "img625/Adjectives-mean.jpg"
+      },
+      {
+        "english": "rich",
+        "cymru": "cyfoethog",
+        "image": "img625/Adjectives-rich.jpg"
+      },
+      {
+        "english": "poor",
+        "cymru": "tlawd",
+        "image": "img625/Adjectives-poor.jpg"
+      },
+      {
+        "english": "thick",
+        "cymru": "tew",
+        "image": "img625/Adjectives-thick.jpg"
+      },
+      {
+        "english": "thin",
+        "cymru": "tenau",
+        "image": "img625/Adjectives-thin.jpg"
+      },
+      {
+        "english": "expensive",
+        "cymru": "drud",
+        "image": "img625/Adjectives-expensive.jpg"
+      },
+      {
+        "english": "cheap",
+        "cymru": "rhad",
+        "image": "img625/Adjectives-cheap.jpg"
+      },
+      {
+        "english": "flat",
+        "cymru": "fflat",
+        "image": "img625/Adjectives-flat.jpg"
+      },
+      {
+        "english": "curved",
+        "cymru": "crwm",
+        "image": "img625/Adjectives-curved.jpg"
+      },
+      {
+        "english": "male",
+        "cymru": "gwryw",
+        "image": "img625/Adjectives-male.jpg"
+      },
+      {
+        "english": "female",
+        "cymru": "benyw",
+        "image": "img625/Adjectives-female.jpg"
+      },
+      {
+        "english": "tight",
+        "cymru": "dynn",
+        "image": "img625/Adjectives-tight.jpg"
+      },
+      {
+        "english": "loose",
+        "cymru": "rhydd",
+        "image": "img625/Adjectives-loose.jpg"
+      },
+      {
+        "english": "high",
+        "cymru": "uchel",
+        "image": "img625/Adjectives-high.jpg"
+      },
+      {
+        "english": "low",
+        "cymru": "isel",
+        "image": "img625/Adjectives-low.jpg"
+      },
+      {
+        "english": "soft",
+        "cymru": "meddal",
+        "image": "img625/Adjectives-soft.jpg"
+      },
+      {
+        "english": "hard",
+        "cymru": "caled",
+        "image": "img625/Adjectives-hard.jpg"
+      },
+      {
+        "english": "deep",
+        "cymru": "dwfn",
+        "image": "img625/Adjectives-deep.jpg"
+      },
+      {
+        "english": "shallow",
+        "cymru": "bas",
+        "image": "img625/Adjectives-shallow.jpg"
+      },
+      {
+        "english": "clean",
+        "cymru": "glan",
+        "image": "img625/Adjectives-clean.jpg"
+      },
+      {
+        "english": "dirty",
+        "cymru": "brwnt",
+        "image": "img625/Adjectives-dirty.jpg"
+      },
+      {
+        "english": "strong",
+        "cymru": "cryf",
+        "image": "img625/Adjectives-strong.jpg"
+      },
+      {
+        "english": "weak",
+        "cymru": "gwan",
+        "image": "img625/Adjectives-weak.jpg"
+      },
+      {
+        "english": "dead",
+        "cymru": "marw",
+        "image": "img625/Adjectives-dead.jpg"
+      },
+      {
+        "english": "alive",
+        "cymru": "yn fyw",
+        "image": "img625/Adjectives-alive.jpg"
+      },
+      {
+        "english": "heavy",
+        "cymru": "trwm",
+        "image": "img625/Adjectives-heavy.jpg"
+      },
+      {
+        "english": "light",
+        "cymru": "golau",
+        "image": "img625/Adjectives-light.jpg"
+      },
+      {
+        "english": "dark",
+        "cymru": "tywyll",
+        "image": "img625/Adjectives-dark.jpg"
+      },
+      {
+        "english": "nuclear",
+        "cymru": "niwclear",
+        "image": "img625/Adjectives-nuclear.jpg"
+      },
+      {
+        "english": "famous",
+        "cymru": "enwog",
+        "image": "img625/Adjectives-famous.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Pronouns",
+    "words": [
+      {
+        "english": "Pronouns",
+        "cymru": "Rhagenwau",
+        "image": "img625/Pronouns-Pronouns.jpg"
+      },
+      {
+        "english": "I",
+        "cymru": "i",
+        "image": "img625/Pronouns-I.jpg"
+      },
+      {
+        "english": "you",
+        "cymru": "ti",
+        "image": "img625/Pronouns-you.jpg"
+      },
+      {
+        "english": "he",
+        "cymru": "ef",
+        "image": "img625/Pronouns-he.jpg"
+      },
+      {
+        "english": "she",
+        "cymru": "hi",
+        "image": "img625/Pronouns-she.jpg"
+      },
+      {
+        "english": "it",
+        "cymru": "mae'n",
+        "image": "img625/Pronouns-it.jpg"
+      },
+      {
+        "english": "we",
+        "cymru": "ni",
+        "image": "img625/Pronouns-we.jpg"
+      },
+      {
+        "english": "you",
+        "cymru": "ti",
+        "image": "img625/Pronouns-you.jpg"
+      },
+      {
+        "english": "they",
+        "cymru": "nhw",
+        "image": "img625/Pronouns-they.jpg"
+      }
+    ]
+  }
+]

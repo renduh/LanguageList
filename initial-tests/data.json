@@ -1,0 +1,52 @@
+[
+  {
+    "english": "Animal",
+    "cymru": "Anifail",
+    "image": "img/Animal.jpg"
+  },
+  {
+    "english": "dog",
+    "cymru": "ci",
+    "image": "img/dog.jpg"
+  },
+  {
+    "english": "cat",
+    "cymru": "cath",
+    "image": "img/cat.jpg"
+  },
+  {
+    "english": "fish",
+    "cymru": "pysgodyn",
+    "image": "img/fish.jpg"
+  },
+  {
+    "english": "bird",
+    "cymru": "aderyn",
+    "image": "img/bird.jpg"
+  },
+  {
+    "english": "cow",
+    "cymru": "buwch",
+    "image": "img/cow.jpg"
+  },
+  {
+    "english": "pig",
+    "cymru": "mochyn",
+    "image": "img/pig.jpg"
+  },
+  {
+    "english": "mouse",
+    "cymru": "llygoden",
+    "image": "img/mouse.jpg"
+  },
+  {
+    "english": "horse",
+    "cymru": "ceffyl",
+    "image": "img/horse.jpg"
+  },
+  {
+    "english": "wing",
+    "cymru": "adain",
+    "image": "img/wing.jpg"
+  }
+]
