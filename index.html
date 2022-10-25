@@ -3,7 +3,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Index test using Vue</title>
+  <title>Welsh language cards</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
 
   <style>
   html, body {
@@ -12,9 +13,6 @@
     padding:0;
     margin:0;
     font-family: sans-serif;
-  }
-  #app {
-    margin-top:80px;
   }
   .container {
     display: flex;
@@ -25,7 +23,7 @@
     width:200px;
     padding:10px;
     margin:10px;
-    border:1px solid #ccc;
+    border:1px solid #3b3b3b;
     text-align:center;
     display: inline-block;
     vertical-align: top;
@@ -34,15 +32,16 @@
     font-weight: bold;
     font-size: 1.2em;
     margin: 0 0 7px 0;
+    color:#3b3b3b;
   }
   .english {
     font-weight: bold;
-    color: #ccc;
+    color: #696969;
     margin: 10px 0 0 0;
   }
   .wordgroup {
     display: block;
-    border: 1px solid #3b3b3b;
+    border: 2px solid #3b3b3b;
     margin: 10px 10px 80px 10px;
     box-sizing: border-box;
     text-align: center;
@@ -54,10 +53,11 @@
   }
   .wordgroup h2 {
     font-size: 2.5em;
-    background: #3b3b3b;
-    color: #fff;
+    background: #fff;
+    color: #3b3b3b;
     padding: 3px 17px;
     display: inline;
+    border: 2px solid #3b3b3b;
   }
   .imageholder {
     width:100%;
@@ -69,6 +69,14 @@
     height:100%;
     object-fit: cover;
   }
+  #intro {
+    text-align:center;
+    margin-bottom:80px;
+  }
+  #intro h1 {
+    font-size:2.5em;
+  }
+
   </style>
 </head>
 
@@ -76,6 +84,10 @@
 
 <div id="app">
 
+<div id="intro">
+  <h1>Welsh language cards</h1>
+  <p>A test using image crawling and translation python libraries to auto generate language cards for a huge number of words.</p>
+</div>
 
 <div v-for="(items, index) in values" v-bind:key="index" class="wordgroup">
   <div class="wordgroupheading">
